@@ -2,10 +2,11 @@
 This is the source code for the SNES Final Fantasy Battle Engine project.  Things are still not complete and there are bugs.  Feel free to improve and enhance the code :)
 
 ## What you need:
-You only need the latest version of pygame to run this engine. To install simply have python installed on your machine and run the command line:
-
+You need the latest version of pygame to run this engine. To install simply have python installed on your machine and run the command line:
 
 > pip install pygame
+
+Furthermore, you need to download the assets separately (since it is pretty big). Download here: https://drive.google.com/file/d/1i1Xq2aBthlg4nKcZSfy46C_q3_UseQsm/view?usp=sharing
 
 ## To Do List:
 * Fix item text display when using items.  
