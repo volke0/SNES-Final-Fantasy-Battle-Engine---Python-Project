@@ -6,7 +6,7 @@ You need the latest version of pygame to run this engine. To install simply have
 
 > pip install pygame
 
-Furthermore, you need to download the assets separately (since it is pretty big) and extract it in the same folder as the code. Download here: https://drive.google.com/file/d/1i1Xq2aBthlg4nKcZSfy46C_q3_UseQsm/view?usp=sharing
+Furthermore, you need to download the assets separately (since it is pretty big) and extract it and place the "resources" folder in the same folder as the code. Download here: https://drive.google.com/file/d/1i1Xq2aBthlg4nKcZSfy46C_q3_UseQsm/view?usp=sharing
 
 ## To Do List:
 * Fix item text display when using items.  
